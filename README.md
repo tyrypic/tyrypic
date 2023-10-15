@@ -8,5 +8,4 @@
       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
   env:
-    # a github token is required to fetch the contribution calendar from github API
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
