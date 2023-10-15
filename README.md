@@ -1,6 +1,6 @@
 - uses: Platane/snk@v3
   with:
-    github_user_name: ${{ github.tyrypic }}
+    github_user_name: ${{ github.repository_owner }}
 
     outputs: |
       dist/github-snake.svg
