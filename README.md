@@ -14,12 +14,6 @@
 
 ## 🔧 Мой технический арсенал:
 
-- **![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)** Язык программирования, который является моим основным инструментом для решения сложных задач.
-- **![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)** Использую этот микрофреймворк для создания легких и гибких веб-приложений.
-- **![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)** Эффективное управление исходным кодом с помощью этой системы контроля версий.
-- **![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)** Обеспечиваю изоляцию приложений и их консистентное функционирование в разных средах с помощью контейнеризации.
-- **![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)** Использую этот веб-сервер для оптимизации работы приложений, обеспечения безопасности и балансировки нагрузки.
-
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="vertical-align:top; margin:4px"></td>
