@@ -29,7 +29,18 @@
     <td><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="vertical-align:top; margin:4px"></td>
     <td>Использую этот микрофреймворк для создания легких и гибких веб-приложений.</td>
   </tr>
-  <!-- Продолжайте добавлять остальные технологии аналогичным образом -->
+   <tr>
+    <td><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align:top; margin:4px"></td>
+    <td>Эффективное управление исходным кодом с помощью этой системы контроля версий.</td>
+  </tr>
+   <tr>
+    <td><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="vertical-align:top; margin:4px"></td>
+    <td>Обеспечиваю изоляцию приложений и их консистентное функционирование в разных средах с помощью контейнеризации.</td>
+  </tr>
+   <tr>
+    <td><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="vertical-align:top; margin:4px"></td>
+    <td>Использую этот веб-сервер для оптимизации работы приложений, обеспечения безопасности и балансировки нагрузки.</td>
+  </tr>
 </table>
 
 ## 💡 Моя цель:
