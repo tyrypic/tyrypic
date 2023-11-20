@@ -41,7 +41,9 @@
 
 Моя цель – разрабатывать масштабируемые и надежные back-end системы, которые помогают бизнесу расти и достигать новых высот.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+</p>
 
 <picture>
   <source
