@@ -20,7 +20,7 @@
     <td>Язык программирования, который является моим основным инструментом для решения сложных задач.</td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="123" style="vertical-align:top; margin:4px"></td>
+    <td><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="vertical-align:top; margin:4px"></td>
     <td>Использую этот микрофреймворк для создания легких и гибких веб-приложений.</td>
   </tr>
    <tr>
