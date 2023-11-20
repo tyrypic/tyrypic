@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+back-end+developer)](https://git.io/typing-svg)
 
-
+Я являюсь Back-end разработчиком, специализирующимся на создании небольших и эффективных приложений. Мой основной инструментарий включает в себя Python и Flask, а также ряд сопутствующих технологий, которые помогают мне создавать надёжные и масштабируемые решения.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
