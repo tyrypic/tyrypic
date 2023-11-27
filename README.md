@@ -59,7 +59,7 @@
 
 
 ## Читайте подробнее о моих проектах
-  - **Проект 1**
+  - **<a href="https://github.com/tyrypic/integration-headhunter/tree/main">Интеграция HeadHuner с Bitrix24</a>**
   - **Проект 2**
 
 ---
