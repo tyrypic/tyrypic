@@ -52,6 +52,7 @@
 
 ## Читайте подробнее о моих проектах
   - ### <a href="https://github.com/tyrypic/integration-headhunter/tree/main">🔄 Интеграция HH.ru → Bitrix24: Автоматизация рекрутинга</a>
+  - ### [🔄 Интеграция HH.ru → Bitrix24: Автоматизация рекрутинга](https://github.com/tyrypic/hh_extension)
 
 
 <picture>
